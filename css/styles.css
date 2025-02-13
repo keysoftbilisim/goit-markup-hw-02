@@ -12,17 +12,18 @@ color: #434455;
     text-transform: uppercase;
     color: #4d5ae5;
 }
-.logo >span{
+.log{
     color: #2e2f42;
 }
-.ul li >.link{
+.link{
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:#2e2f42;
 }
-.ul li >span >a{
-    color: #4d5ae5;
+
+.link .link{
+    color: #2e2f42;
     text-decoration: none;
 }
 .link .link:hover,.link .link:focus{

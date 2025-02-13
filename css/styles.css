@@ -22,18 +22,18 @@ color: #434455;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.link_:hover, link_:focus{
+.link_:hover, .link_:focus{
     color: #404bbf;
 }
 .adres{
     font-style: normal;
 }
-.adlink{
+.adlink_{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
- .adlink_:hover, adlink_:focus {
+.adlink_:hover, .adlink_:focus{
      color: #404bbf;
  }
 .fot{

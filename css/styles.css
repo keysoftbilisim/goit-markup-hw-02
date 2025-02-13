@@ -20,21 +20,27 @@ color: #434455;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
+    color: #2e2f42;
 }
-
 .link_:hover,link_:focus{
     color: #404bbf;
 }
-.adres
+.adres{
     font-style: normal;
 }
+.adlink{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+ .adlink_:hover,adlink_:focus {
+     color: #404bbf;
+ }
 .fot{
     background-color: #2e2f42;
-
 }
 .logg{
-    color:#2e2f42
+    color:#2e2f42;
 }
 .fotp{
     line-height: 1.5;

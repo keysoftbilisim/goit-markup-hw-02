@@ -22,12 +22,8 @@ color: #434455;
     color:#2e2f42;
 }
 
-.link .link{
-    color: #2e2f42;
-    text-decoration: none;
-}
-.link .link:hover,.link .link:focus{
-    color: #404bbf
+.link:hover,link:focus{
+    color: #4d5ae5;
 }
 .adres{
     font-style: normal;

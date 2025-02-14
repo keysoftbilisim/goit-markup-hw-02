@@ -48,10 +48,10 @@ color: #434455;
     letter-spacing: 0.02em;
     
 }
-.sec1{
+.sec_bir{
     background-color: #2e2f42;
 }
-.baslik1{
+.baslik_bir{
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -69,14 +69,14 @@ color: #434455;
 .but:hover, .but:focus{
     background-color: #404bbf;
 }
-.baslik3{
+.baslik_uc{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color:#2e2f42;
 }
-.baslik3p{
+.baslik_ucp{
     line-height: 1.5;
     letter-spacing: 0.02em;
 }

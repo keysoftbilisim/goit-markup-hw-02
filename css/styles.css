@@ -1,107 +1,110 @@
-body{
-font-family: 'Roboto',sans-serif;
-background-color: #ffffff;
-color: #434455;
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #ffffff;
+  color: #434455;
 }
-.logo{
-    font-family: 'Raleway' ,sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4d5ae5;
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
 }
-.log{
-    color: #2e2f42;
+.log {
+  color: #2e2f42;
 }
-.link_{
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
+.link_ {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
-.link_:hover, .link_:focus{
-    color: #404bbf;
+.link_:hover,
+.link_:focus {
+  color: #404bbf;
 }
-.adres{
-    font-style: normal;
+.adres {
+  font-style: normal;
 }
-.adlink_{
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
+.adlink_ {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
-.adlink_:hover, .adlink_:focus{
-     color: #404bbf;
- }
-.fot{
-    background-color: #2e2f42;
+.adlink_:hover,
+.adlink_:focus {
+  color: #404bbf;
 }
-.fotlog{
-    color:#2e2f42;
+.fot {
+  background-color: #2e2f42;
 }
-.fotp{
-    line-height: 1.5;
-    color:#f4f4fd;
-    letter-spacing: 0.02em;
+.fotlog {
+  color: #2e2f42;
 }
-.section_one{
-    background-color: #2e2f42;
+.fotp {
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
 }
-.h_one{
-    font-size: 56px;
-    line-height: 1.07;
-    text-align: center;
-    letter-spacing: 0.02em;
-    color: #ffffff;
+.section_one {
+  background-color: #2e2f42;
 }
-.but{
-    background-color: #4d5ae5;
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    color: #ffffff;
-    cursor: pointer;
+.h_one {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
 }
-.but:hover, .but:focus{
-    background-color: #404bbf;
+.but {
+  background-color: #4d5ae5;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  cursor: pointer;
 }
-.baslik_uc{
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color:#2e2f42;
+.but:hover,
+.but:focus {
+  background-color: #404bbf;
 }
-.baslik_ucp{
-    line-height: 1.5;
-    letter-spacing: 0.02em;
+.baslik_uc {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
-.section_three{
-    background-color: #f4f4fd;
+.baslik_ucp {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
-.h_two{
-    font-size: 36px;
-    line-height: 1.11;
-    text-align: center;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-    text-transform: capitalize;
+.section_three {
+  background-color: #f4f4fd;
 }
-.team{
-    background-color: #ffffff;
+.h_two {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  text-transform: capitalize;
 }
-.name{
-    fony-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
+.team {
+  background-color: #ffffff;
 }
-.namep{
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
+.name {
+  fony-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.namep {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }

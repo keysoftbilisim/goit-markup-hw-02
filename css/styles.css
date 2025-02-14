@@ -50,7 +50,7 @@ color: #434455;
 .section_one{
     background-color: #2e2f42;
 }
-.h1_one{
+.h_one{
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -82,11 +82,26 @@ color: #434455;
 .section_three{
     background-color: #f4f4fd;
 }
-.h2_two{
+.h_two{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
     color: #2e2f42;
     text-transform: capitalize;
+}
+.team{
+    background-color: #ffffff;
+}
+.name{
+    fony-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.namep{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
